@@ -1,0 +1,5 @@
+Règle(1): SI (E, B), ALORS (C)
+Règle(2): SI (F, D), ALORS (A)
+Règle(3): SI (D, E), ALORS (B)
+Règle(4): SI (B, D), ALORS (F)
+Règle(5): SI (E, F), ALORS (D)
