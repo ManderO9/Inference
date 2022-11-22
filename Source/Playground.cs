@@ -128,7 +128,7 @@ public class Playground
             // R ← premier element de ER
             var regle = ensembleRegles.FirstOrDefault();
 
-            // Si on à aucune règle pour démontrer le fait, on va le considérer comme faut
+            // Si on a aucune règle pour démontrer le fait, on va le considérer comme faut
             if (regle is null)
             {
                 valide = false;
